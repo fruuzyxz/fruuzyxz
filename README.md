@@ -8,9 +8,9 @@
 
 
 - 👋 Hello our name is @fruuzyxz and @imnotlighttt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👍 Our contact email fruuzybrokenlife@gmail.com
+- 👀 We are interested in learning to program new languages.
+- 🌱 We are recently learning to program the JavaScript and Scratch language.
+
 
 
